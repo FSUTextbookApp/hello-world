@@ -1,0 +1,11 @@
+Team Project Deliverable 1- Team Declaration and Project Prospectus
+Team Members:
+Barnes, Marcus ― mbb11d
+Maloney, Sam ― sam13g
+Meier, Nicholas ― nlm15
+Ostrovidov, Alexy ― aao17b
+Team Name:
+Team Waterboys
+Description:
+	This project will focus on developing a mobile app that tackles the problem of students not being able to find affordable textbooks. We plan to implement a marketplace for college students to buy and sell their textbooks. Students can list books they have from previous classes for current students to purchase for less than a new copy at the bookstore. Users would register with a .edu email, to ensure that the market place is being used for university-level textbooks only. By implementing PayPal, buyers would be able to pay the seller directly, without a middleman. 
+	We plan to utilize a wishlist system, along with push notifications, to let users know when a book they are looking for is listed for sale, or if the price drops. In the same vein, users will be able to set a price limit that they are willing to pay, and would be notified when a textbook drops below that threshold, and sellers of that book will be notified when a buyer adds their book to a wishlist for a price lower than asking, and giving them the option to sell the book immediately for the price set by the buyer. Sellers will have the choice between an auction for the books they are selling or strictly a buy now price only. 
